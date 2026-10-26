@@ -1,0 +1,12 @@
+target/
+.settings/
+.classpath
+.project
+.factorypath
+.springBeans
+.env
+application-local.properties
+*.log
+hs_err_pid*
+replay_pid*
+.DS_Store
